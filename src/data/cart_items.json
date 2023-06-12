@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 25,
+      "game_title": "Assasins Creed",
+      "game_image": "AssassinsCreed",
+      "imgFormat": "jpg",
+      "Price": 100,
+      "Deliverable": "Yes",
+      "Rating": 5
+    },
+    {
+      "id": 2,
+      "game_title": "Tombe Raider",
+      "game_image": "tombRaider",
+      "imgFormat": "jpg",
+      "Price": 100,
+      "Deliverable": "Yes",
+      "Rating": 5
+    },
+    {
+      "id": 4,
+      "game_title": "GTA",
+      "game_image": "gtAuto",
+      "imgFormat": "png",
+      "Price": 100,
+      "Deliverable": "Yes",
+      "Rating": 5
+    },
+    {
+      "id": 5,
+      "game_title": "Assasins Creed",
+      "game_image": "AssassinsCreed",
+      "imgFormat": "jpg",
+      "Price": 100,
+      "Deliverable": "Yes",
+      "Rating": 5
+    }
+  ]
+}

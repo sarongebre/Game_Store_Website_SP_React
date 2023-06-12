@@ -1,0 +1,12 @@
+.card-test {
+  display: grid;
+  height: 94vh;
+  background-color: black;
+  place-items: center;
+}
+
+@media screen and (max-width: 960px) {
+  .card-test {
+    font-size: 2.5rem;
+  }
+}

@@ -1,0 +1,40 @@
+/*
+Drag Area
+https://codesandbox.io/s/framer-motion-drag-with-constraints-pjn6t?file=/src/styles.css
+*/
+
+.statement {
+  margin-bottom: 20px;
+}
+
+.statements {
+  z-index: 5;
+}
+
+.greater-tri-state-area {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.example-container {
+  background: black;
+  border-radius: 30px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: calc(50% - 150px / 2);
+  left: calc(50% - 150px / 2);
+}
+
+.drag-area {
+  opacity: 0.2;
+  background: white;
+  position: relative;
+  width: 95vw;
+  height: 90vh;
+  border-radius: 30px;
+  border-color: black;
+  border-style: solid;
+  border-width: 8px;
+}
